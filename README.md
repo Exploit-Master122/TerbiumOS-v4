@@ -5,6 +5,7 @@
 
 ## <span style="color: #32ae62;">Some of the technologies used</span>
 
+
 - [React](https://react.dev)
 - [TailwindCSS](https://tailwindcss.com)
 - [FilerJS](https://github.com/filerjs/filer)
